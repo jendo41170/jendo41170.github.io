@@ -19,7 +19,7 @@ nav-menu: true
 	</div>
 </section>
 
-<!-- Two -->
+<!-- Middle -->
 <section id="two" class="spotlights">
 	<section>
 		<a href="generic.html" class="image">
@@ -45,7 +45,7 @@ Duolingo Data: A Study on Foreign Language Learning</h3>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Rhoncus magna</h3>
+					<h3>Building my Personal Website</h3>
 				</header>
 				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
 				<ul class="actions">
@@ -61,7 +61,8 @@ Duolingo Data: A Study on Foreign Language Learning</h3>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Sed nunc ligula</h3>
+					<h3>
+Research on Analytic Number Theory (Riemann Sums, Mobius Function)</h3>
 				</header>
 				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
 				<ul class="actions">

@@ -1,4 +1,3 @@
----
 # site settings
 title: Jenny Do 
 email: dojenny.27@gmail.com
@@ -41,5 +40,3 @@ exclude:
 - LICENSE.md
 - CONTRIBUTING.md
 - README.md 
----
-<p> what's up baddie </p>

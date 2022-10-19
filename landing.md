@@ -31,6 +31,7 @@ nav-menu: true
 					<h3>
 Duolingo Data: A Study on Foreign Language Learning</h3>
 				</header>
+				<p> Technologies Used: R, RMarkdown, SQL, Tableau </p>
 				<p>This project uses a gzipped CSV file containing 13 million Duolingo student learning traces to create a model that aims to predict the learning difficulty for a specific word in one of the six languages, German, English, Spanish, French, Italian and Portuguese. In the model building stage, the process utilizes stratified cross fold validation on the following models: Linear Regression, Random Forest, Boosted Trees, Nearest Neighbors.</p>
 				<ul class="actions">
 					<li><a href="PSTAT-131-Final-Project-.html" class="button">Learn more</a></li>

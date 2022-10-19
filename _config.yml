@@ -1,14 +1,17 @@
 # site settings
-title: Jenny Do 
-email: dojenny.27@gmail.com
-description: Nice to meet you! 
+title: Forty
+subtitle: by HTML5 UP
+email: youremailaddress@gmail.com
+description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
 baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
-url: jenny_do.github.io
+url: # the base hostname & protocol for your site
 author:
-city: Orange County 
-state: CA
+street_address: 1234 Somewhere Road
+city: Nashville
+state: TN
+zip_code: 55555
 country: United States of America
-
+phone: (716) 555-5555
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
@@ -39,3 +42,4 @@ exclude:
 - LICENSE.md
 - CONTRIBUTING.md
 - README.md 
+

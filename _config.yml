@@ -1,8 +1,8 @@
 # site settings
 title: Jenny Do 
-email: dojenny.27.com
+email: dojenny.27@gmail.com
 description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
-baseurl: "/Home" # the subpath of your site, e.g. /blog
+baseurl: "/all_posts" # the subpath of your site, e.g. /blog
 url: jendo41170.github.io
 author:
 street_address: 1234 Somewhere Road

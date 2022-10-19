@@ -64,7 +64,7 @@ Duolingo Data: A Study on Foreign Language Learning</h3>
 					<h3>
 Research on Analytic Number Theory (Riemann Sums, Mobius Function)</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>This project utilizes python to explore the relationship between the Mobius Function, Mertens Function and their connections to the Riemann Hypothesis and Prime Number Theory.</p>
 				<ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
 				</ul>

@@ -6,7 +6,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: 
 author:
 #street_address: 1234 Somewhere Road
-#city: 
+city: Orange County
 state: CA
 #zip_code: 55555
 country: United States of America

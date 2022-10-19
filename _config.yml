@@ -1,6 +1,6 @@
 # site settings
 title: Jenny Do 
-email: dojenny.27s@gmail.com
+email: dojenny.27@gmail.com
 description: Nice to meet you! 
 baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
 url: jenny_do.github.io

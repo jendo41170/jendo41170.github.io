@@ -9,7 +9,7 @@ author:
 city: Orange County
 state: CA
 #zip_code: 55555
-country: United States of America
+#country: United States of America
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"

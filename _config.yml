@@ -5,12 +5,12 @@ description: A responsive site template designed by HTML5 Up<br /> and released 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: 
 author:
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
+#street_address: 1234 Somewhere Road
+#city: 
+state: CA
+#zip_code: 55555
 country: United States of America
-phone: (716) 555-5555
+#phone: (716) 555-5555
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"

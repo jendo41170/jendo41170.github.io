@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Resume
-description: Lorem ipsum dolor est
+description: Available for PDF Download 
 image: assets/images/pic11.jpg
 nav-menu: true
 ---

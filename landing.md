@@ -40,7 +40,7 @@ Duolingo Data: A Study on Foreign Language Learning</h3>
 	</section>
 	<section>
 		<a href="generic.html" class="image">
-			<img src="{% link assets/images/pic09.jpg %}" alt="" data-position="top center" />
+			<img src="{% link assets/images/mockup.png %}" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">

@@ -25,7 +25,7 @@ nav-menu: true
 	<span class="image left"><img src="{% link assets/images/ucsb_seal.gif %}" alt="" style="max-width: 100%;" /></span><h3>University of California, Santa Barbara</h3>
 		<p>2022 Graduation
 		<br>Major: Data Science and Statistics B.S.
-		<br>Relevant Course Work: Micro, Micro Economics; R Programming, SAS Programming, Linear Regression and Diagnostics, Machine Learning, Time Series Analysis, Stochasic Processes<br><br><br></p>
+		<br>Relevant Course Work: Micro, Micro Economics; R Programming, SAS Programming, Linear Regression and Diagnostics, Machine Learning, Time Series Analysis, Stochastic Processes<br><br><br></p>
 	</div>
 		
 <!-- Education -->
@@ -36,7 +36,7 @@ nav-menu: true
 		<p><span class="image left"><img src="{% link assets/images/ucsb_seal.gif %}" alt="" style="max-width: 100%;" /></span><strong>University of California, Santa Barbara</strong>
 		<br>2022 Graduation
 		<br>Major: Data Science and Statistics B.S.
-		<br><br>Relevant Course Work: Micro, Micro Economics; R Programming, SAS Programming, Linear Regression and Diagnostics, Machine Learning, Time Series Analysis, Stochasic Processes<br></p>
+		<br><br>Relevant Course Work: Micro, Micro Economics; R Programming, SAS Programming, Linear Regression and Diagnostics, Machine Learning, Time Series Analysis, Stochastic Processes<br></p>
 	</div>
 	</div>
 	<div class="6u$ 12u$(small)">
@@ -59,7 +59,11 @@ nav-menu: true
 		May 2021– August 2021</p>
 	</div>
 	<div class="6u$ 12u$(small)">
-		<p>In arcu accumsan arcu adipiscing accumsan orci ac. Felis id enim aliquet. Accumsan ac integer lobortis commodo ornare aliquet accumsan erat tempus amet porttitor. Ante commodo blandit adipiscing integer semper orci eget. Faucibus commodo adipiscing mi eu nullam accumsan morbi arcu ornare odio mi adipiscing nascetur lacus ac interdum morbi accumsan vis mi accumsan ac praesent.</p>
+		<ul>
+			<li>Expanded methods of identification, tracking and monitoring of risk threats</li>
+			<li>Maintained projects, data, and security for systems and controls related to the information security department</li>
+			<li>Developed daily reports, quarterly system clearance reports and oversaw metadata changes</li>
+		</ul>
 	</div>
 		</div>
 	

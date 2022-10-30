@@ -19,6 +19,6 @@ nav-menu: true
 <h2 id="content">Education</h2>
 <div class="box">
 	<p><span class="image left"><img src="{% link assets/images/ucsb_seal.gif %}" alt="" /></span><strong>University of California, Santa Barbara</strong>
-	2022 Graduation
-	Major: Data Science and Statistics B.S. </p>
+	<br>2022 Graduation
+	<br>Major: Data Science and Statistics B.S. </p>
 </div>

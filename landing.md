@@ -41,7 +41,7 @@ Duolingo Data: A Study on Foreign Language Learning</h3>
 		</div>
 	</section>
 	<section>
-		<a href="building_website.md" class="image">
+		<a ref="building_website.md" class="image">
 			<img src="{% link assets/images/mockup_new.png %}" alt="" data-position="top center" />
 		</a>
 		<div class="content">
@@ -52,7 +52,7 @@ Duolingo Data: A Study on Foreign Language Learning</h3>
 				<p>Technologies Used: HTML, SCSS, JavaScript, Github Pages</p>
 				<p>This project uses the languages/technologies mentioned above to build the website you are on right now! This was an incredibly fun project to work on as it allowed me to be creative and explore front-end development. </p>
 				<ul class="actions">
-					<li><a href="building_website.md" class="button">Learn more</a></li>
+					<li><a ref="building_website.md" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>

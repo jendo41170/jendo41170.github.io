@@ -15,7 +15,7 @@ nav-menu: true
 			<h1>Resume</h1>
 		</header>
 <ul class="actions">
-	<li><a href="Do_Jenny .pdf" class="button fit icon fa-download">Download</a></li>
+	<li><a href="Do_Jenny .pdf" class="button fit icon fa-download">Download PDF Version</a></li>
 </ul>
 
 <!-- Education -->

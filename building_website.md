@@ -4,8 +4,6 @@ title: Building my Personal Website
 image: null
 nav-menu: false
 ---
-<!-- Main -->
-<div id="main" class="alt">
 
 <!-- One -->
 <section id="one">

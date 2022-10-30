@@ -14,7 +14,8 @@ nav-menu: true
 		<header class="major">
 			<h1>Resume</h1>
 		</header>
-
+</div>
+	</div>
 <!-- Education -->
 <h2 id="content">Education</h2>
 <div class="box">
@@ -27,6 +28,7 @@ nav-menu: true
 		<br><br>2022 Graduation
 		<br>Major: Data Science and Statistics B.S.
 		<br>Relevant Course Work: Micro, Micro Economics; R Programming, SAS Programming, Linear Regression and Diagnostics, Machine Learning, Time Series Analysis, Stochasic Processes<br><br></p>
+		</div>
 		</div>
 </div>
 		

@@ -18,7 +18,7 @@ nav-menu: true
 <!-- Education -->
 <h2 id="content">Education</h2>
 <div class="box">
-	<p><span class="image left"><img src="{% link assets/images/ucsb_seal.gif %}" alt="" /></span><strong>University of California, Santa Barbara</strong>
-	<br>2022 Graduation
+	<p><span class="image left"><img src="{% link assets/images/ucsb_seal.gif %}" alt="" /></span><strong>University of California, Santa Barbara</strong></p>
+	<p>2022 Graduation
 	<br>Major: Data Science and Statistics B.S. </p>
 </div>

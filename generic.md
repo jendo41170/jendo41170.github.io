@@ -20,31 +20,13 @@ nav-menu: true
 <div class="box">
 	<div class="row">
 	<div class="6u 12u$(small)">
-		<span class="image fit"><img src="{% link assets/images/ucsb_seal.gif %}" alt="" /></span>
+		<span class="image left"><img src="{% link assets/images/ucsb_seal.gif %}" alt="" /></span>
 	</div>
 	<div class="6u$ 12u$(small)">
 		<h3>University of California, Santa Barbara</h3>
 		<p>2022 Graduation
 		<br>Major: Data Science and Statistics B.S.
 		<br>Relevant Course Work: Micro, Micro Economics; R Programming, SAS Programming, Linear Regression and Diagnostics, Machine Learning, Time Series Analysis, Stochasic Processes</p>
-	<!-- Break -->
-	</div>
-		<div class="4u 12u$(medium)">
-		<h3>Interdum sapien gravida</h3>
-		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
-	</div>
-	<div class="4u 12u$(medium)">
-		<h3>Faucibus consequat lorem</h3>
-		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
-	</div>
-	<div class="4u$ 12u$(medium)">
-		<h3>Accumsan montes viverra</h3>
-		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
-	</div>
-	<div class="4u$ 12u$(medium)">
-		<h3>Accumsan montes viverra</h3>
-		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
-	</div>
 	
 </div>
 		

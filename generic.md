@@ -14,6 +14,22 @@ nav-menu: true
 		<header class="major">
 			<h1>Resume</h1>
 		</header>
+
+<!-- Education -->
+<h2 id="content">Education</h2>
+<div class="box">
+	<div class="row">
+	<div class="6u 12u$(small)">
+		<p><span class="image left"><img src="{% link assets/images/ucsb_seal.gif %}" alt="" style="max-width: 87%;"/ </span></p>
+	</div>
+	<div class="6u$ 12u$(small)">
+		<p>2022 Graduation
+		<br>Major: Data Science and Statistics B.S.
+		<br>Relevant Course Work: Micro, Micro Economics; R Programming, SAS Programming, Linear Regression and Diagnostics, Machine Learning, Time Series Analysis, Stochasic Processes</p>
+	</div>
+		</div>
+	
+</div>
 		
 <!-- Work Experience -->
 <h2 id="content">Work Experience</h2>

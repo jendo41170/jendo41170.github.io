@@ -40,3 +40,45 @@ nav-menu: true
 		</div>
 	
 </div>
+		
+<!-- Projects -->
+<h2 id="content">Projects</h2>
+<div class="box">
+	<div class="row">
+	<!-- #1 -->
+	<div class="6u 12u$(small)">
+		<h3>Community West Bank | Cyber Security & Risk Management Intern</h3>
+		<p></p>
+	</div>
+	<div class="6u$ 12u$(small)">
+		<p>In arcu accumsan arcu adipiscing accumsan orci ac. Felis id enim aliquet. Accumsan ac integer lobortis commodo ornare aliquet accumsan erat tempus amet porttitor. Ante commodo blandit adipiscing integer semper orci eget. Faucibus commodo adipiscing mi eu nullam accumsan morbi arcu ornare odio mi adipiscing nascetur lacus ac interdum morbi accumsan vis mi accumsan ac praesent.</p>
+	</div>
+		</div>
+	
+</div>
+		
+<!-- Skills -->
+<h2 id="content">Skills</h2>
+<div class="box">
+	<div class="row">
+	<!-- #1 -->
+	<div class="6u 12u$(small)">
+		<h3>Community West Bank | Cyber Security & Risk Management Intern</h3>
+		<p></p>
+	</div>
+	<div class="6u$ 12u$(small)">
+		<p>In arcu accumsan arcu adipiscing accumsan orci ac. Felis id enim aliquet. Accumsan ac integer lobortis commodo ornare aliquet accumsan erat tempus amet porttitor. Ante commodo blandit adipiscing integer semper orci eget. Faucibus commodo adipiscing mi eu nullam accumsan morbi arcu ornare odio mi adipiscing nascetur lacus ac interdum morbi accumsan vis mi accumsan ac praesent.</p>
+	</div>
+		</div>
+	
+</div>
+		
+<!-- Leadership/Organizations -->
+<h2 id="content">Leadership + Organizations</h2>
+<div class="box">
+	<ul>
+			<li>Dolor etiam magna etiam.</li>
+			<li>Sagittis lorem eleifend.</li>
+			<li>Felis dolore viverra.</li>
+		</ul>
+</div>

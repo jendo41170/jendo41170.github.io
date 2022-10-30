@@ -49,7 +49,7 @@ Duolingo Data: A Study on Foreign Language Learning</h3>
 				<header class="major">
 					<h3>Building my Personal Website</h3>
 				</header>
-				<p>Technologies Used: HTML, SCSS, JavaScript, Github Pages</p>
+				<p>Technologies Used: HTML, SCSS, JavaScript, Github Pages, RMarkdown</p>
 				<p>This project uses the languages/technologies mentioned above to build the website you are on right now! This was an incredibly fun project to work on as it allowed me to be creative and explore front-end development. </p>
 				<ul class="actions">
 					<li><a href="building_website.md" class="button">Learn more</a></li>

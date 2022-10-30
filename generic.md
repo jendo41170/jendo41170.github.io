@@ -22,6 +22,7 @@ nav-menu: true
 		<p>2022 Graduation
 		<br>Major: Data Science and Statistics B.S.
 		<br>Relevant Course Work: Micro, Micro Economics; R Programming, SAS Programming, Linear Regression and Diagnostics, Machine Learning, Time Series Analysis, Stochasic Processes</p>
+</div>
 		
 <!-- Work Experience -->
 <h2 id="content">Work Experience</h2>

@@ -14,6 +14,9 @@ nav-menu: true
 		<header class="major">
 			<h1>Resume</h1>
 		</header>
+<ul class="actions">
+	<li><a href="#" class="button fit icon fa-download">Download Resume</a></li>
+</ul>
 
 <!-- Education -->
 	

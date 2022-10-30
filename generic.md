@@ -17,11 +17,22 @@ nav-menu: true
 
 <!-- Education -->
 <h2 id="content">Education</h2>
-<div class="box">
-<p><span class="image left"><img src="{% link assets/images/ucsb_seal.gif %}" alt="" style="max-width: 87%;" /></span><strong>University of California, Santa Barbara</strong>
+<div class="row">
+<div class="6u 12u$(small)">
+	<div class="box">
+	<p><span class="image left"><img src="{% link assets/images/ucsb_seal.gif %}" alt="" style="max-width: 100%;" /></span><strong>University of California, Santa Barbara</strong>
 		<br>2022 Graduation
 		<br>Major: Data Science and Statistics B.S.
-		<br>Relevant Course Work: Micro, Micro Economics; R Programming, SAS Programming, Linear Regression and Diagnostics, Machine Learning, Time Series Analysis, Stochasic Processes<br><br></p>
+		<br>Relevant Course Work: Micro, Micro Economics; R Programming, SAS Programming, Linear Regression and Diagnostics, Machine Learning, Time Series Analysis, Stochasic Processes<br><br><br><br></p>
+	</div>
+<div class="6u 12u$(small)">
+	<div class="box">
+	<p><span class="image left"><img src="{% link assets/images/ucsb_seal.gif %}" alt="" style="max-width: 100%;" /></span><strong>University of California, Santa Barbara</strong>
+		<br>2022 Graduation
+		<br>Major: Data Science and Statistics B.S.
+		<br>Relevant Course Work: Micro, Micro Economics; R Programming, SAS Programming, Linear Regression and Diagnostics, Machine Learning, Time Series Analysis, Stochasic Processes<br><br><br><br></p>
+	</div>
+</div>
 </div>
 		
 <!-- Work Experience -->

@@ -65,7 +65,7 @@ nav-menu: true
 <!-- Projects -->
 <h2 id="content">Projects</h2>
 	<div class="row">
-	<div class="4u 12u$(small)">
+	<div class="6u 12u$(small)">
 	<div class="box">
 		<p><span class="image left"><img src="{% link assets/images/ucsb_seal.gif %}" alt="" style="max-width: 100%;" /></span><strong>University of California, Santa Barbara</strong>
 		<br>2022 Graduation
@@ -73,19 +73,13 @@ nav-menu: true
 		<br><br>Relevant Course Work: Micro, Micro Economics; R Programming, SAS Programming, Linear Regression and Diagnostics, Machine Learning, Time Series Analysis, Stochasic Processes<br></p>
 	</div>
 	</div>
-	<div class="4u$ 12u$(small)">
+	<div class="6u$ 12u$(small)">
 	<div class="box">
 		<p><span class="image left"><img src="{% link assets/images/ucsb_seal.gif %}" alt="" style="max-width: 100%;" /></span><strong>Fountain Valley High School</strong>
 		<br>2014-2018</p>
 	</div>
-	</div>
-	<div class="4u$ 12u$(small)">
-	<div class="box">
-		<p><span class="image left"><img src="{% link assets/images/ucsb_seal.gif %}" alt="" style="max-width: 100%;" /></span><strong>Fountain Valley High School</strong>
-		<br>2014-2018</p>
-	</div>
-	</div>
-</div>
+		</div>
+		</div>
 		
 <!-- Skills -->
 <h2 id="content">Skills</h2>

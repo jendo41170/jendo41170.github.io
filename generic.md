@@ -2,7 +2,7 @@
 layout: page
 title: Resume
 description: Available for PDF Download 
-image: new_analytics_1.png 
+image: assets/images/new_analytics_1.png
 nav-menu: true
 ---
 <!-- Main -->

@@ -40,7 +40,7 @@ nav-menu: true
 	<div class="6u$ 12u$(small)">
 	<div class="box">
 		<p><span class="image left"><img src="{% link assets/images/ucsb_seal.gif %}" alt="" style="max-width: 100%;" /></span><strong>Fountain Valley High School</strong>
-		<br>2014-2018
+		<br>2014-2018</p>
 	</div>
 		</div>
 		</div>

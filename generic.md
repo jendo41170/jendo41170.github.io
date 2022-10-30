@@ -19,8 +19,8 @@ nav-menu: true
 	
 <h2 id="content">Education</h2>
 <div class="box">
-	<p><span class="image left"><img src="{% link assets/images/ucsb_seal.gif %}" alt="" style="max-width: 100%;" /></span><h3>University of California, Santa Barbara</h3>
-		<br><br>2022 Graduation
+	<p><span class="image left"><img src="{% link assets/images/ucsb_seal.gif %}" alt="" style="max-width: 100%;" /></span></p><h3>University of California, Santa Barbara</h3>
+		<p>2022 Graduation
 		<br>Major: Data Science and Statistics B.S.
 		<br>Relevant Course Work: Micro, Micro Economics; R Programming, SAS Programming, Linear Regression and Diagnostics, Machine Learning, Time Series Analysis, Stochasic Processes<br><br><br></p>
 	</div>

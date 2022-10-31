@@ -98,7 +98,7 @@ nav-menu: true
 	</div>
 	<div class="6u$ 12u$(small)">
 		<ul>
-			<li>Expanded methods of identification, tracking and monitoring of risk threats</li>
+			<li>Worked in a cohesive team environment where efficiency and interpersonal skills were paramount to maintaining a high level of customer service and quality</li>
 		</ul>
 	</div>
 </div>

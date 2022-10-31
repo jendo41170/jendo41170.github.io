@@ -107,13 +107,16 @@ nav-menu: true
 			<li>SQL</li>
 			<li>Python</li>
 			<li>Tableau</li>
+			<li>SAS</li>
 		</ul>
 	</div>
 	<div class="6u$ 12u$(small)">
 		<ul>
 			<li>Excel</li>
 			<li>Latex</li>
-			<li>SAS</li>
+			<li>HTML</li>
+			<li>CSS</li>
+			<li>JavaScript</li>
 			<li>C++</li>
 		</ul>
 	</div>

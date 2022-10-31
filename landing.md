@@ -30,7 +30,8 @@ nav-menu: true
 Duolingo Data: A Study on Foreign Language Learning</h3>
 				</header>
 				<p> Technologies Used: R, RMarkdown, SQL, Tableau </p>
-				<p>This project uses a gzipped CSV file containing 13 million Duolingo student learning traces to create a model that aims to predict the learning difficulty for a specific word in one of the six languages, German, English, Spanish, French, Italian and Portuguese. In the model building stage, the process utilizes stratified cross fold validation on the following models: Linear Regression, Random Forest, Boosted Trees, Nearest Neighbors.</p>
+				<p>This project uses a gzipped CSV file containing 13 million Duolingo student learning traces to create a model that aims to predict the learning difficulty for a specific word in one of the six languages, German, English, Spanish, French, Italian and Portuguese. In the model building stage, the process utilizes stratified cross fold validation on the following models: Linear Regression, Random Forest, Boosted Trees, Nearest Neighbors.
+				<br> Before viewing the project, I invite you to download and view the codebook. Exposure to these variables will helpful for this report! </p>
 				<ul class="actions">
 					<li><a href="duolingo_codebook" class="button fit icon fa-download">Download Codebook</a></li>
 				</ul>
@@ -50,7 +51,7 @@ Duolingo Data: A Study on Foreign Language Learning</h3>
 					<h3>Building my Personal Website</h3>
 				</header>
 				<p>Technologies Used: HTML, SCSS, JavaScript, Github Pages, RMarkdown</p>
-				<p>This project uses the languages/technologies mentioned above to build the website you are on right now! This was an incredibly fun project to work on as it allowed me to be creative and explore front-end development. </p>
+				<p>This project uses the languages/technologies mentioned above to build the website you are on right now! This was an incredibly fun project to work on as it allowed me to be creative and explore front-end development.</p>
 				<ul class="actions">
 					<li><a href="building_website.md" class="button">Learn more</a></li>
 				</ul>

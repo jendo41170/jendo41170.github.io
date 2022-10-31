@@ -74,7 +74,7 @@ nav-menu: true
 	<div class="row">
 	<div class="6u 12u$(small)">
 	<div class="box">
-		<p><span class="image left"><img src="{% link assets/images/ucsb_seal.gif %}" alt="" style="max-width: 100%;" /></span><strong>University of California, Santa Barbara</strong>
+		<p><span class="image left"><img src="{% link assets/images/duolingo.png %}" alt="" style="max-width: 100%;" /></span><strong>Duolingo Data: A Study on Foreign Language Learning</strong>
 		<br>2022 Graduation
 		<br>Major: Data Science and Statistics B.S.
 		<br><br>Relevant Course Work: Micro, Micro Economics; R Programming, SAS Programming, Linear Regression and Diagnostics, Machine Learning, Time Series Analysis, Stochasic Processes<br></p>
@@ -82,13 +82,13 @@ nav-menu: true
 	</div>
 	<div class="6u$ 12u$(small)">
 	<div class="box">
-		<p><span class="image left"><img src="{% link assets/images/ucsb_seal.gif %}" alt="" style="max-width: 100%;" /></span><strong>Fountain Valley High School</strong>
+		<p><span class="image left"><img src="{% link assets/images/mockup_large.png %}" alt="" style="max-width: 100%;" /></span><strong>GitHub Pages: Building a Static Website</strong>
 		<br>2014-2018</p>
 	</div>
 	</div>
 <div class="6u 12u$(small)">
 	<div class="box">
-		<p><span class="image left"><img src="{% link assets/images/ucsb_seal.gif %}" alt="" style="max-width: 100%;" /></span><strong>University of California, Santa Barbara</strong>
+		<p><span class="image left"><img src="{% link assets/images/riemann.jpeg %}" alt="" style="max-width: 100%;" /></span><strong>Research on Analytic Number Theory</strong>
 		<br>2022 Graduation
 		<br>Major: Data Science and Statistics B.S.
 		<br><br>Relevant Course Work: Micro, Micro Economics; R Programming, SAS Programming, Linear Regression and Diagnostics, Machine Learning, Time Series Analysis, Stochasic Processes<br></p>

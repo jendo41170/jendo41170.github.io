@@ -102,6 +102,7 @@ nav-menu: true
 		</ul>
 	</div>
 </div>
+</div>
 	
 		
 <!-- Projects -->

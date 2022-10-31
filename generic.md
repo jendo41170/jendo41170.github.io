@@ -82,7 +82,7 @@ nav-menu: true
 			<li>In the model building stage, utilized stratified cross fold validation on the following models: Linear Regression, Random Forest, Boosted Trees, Nearest Neighbors</li>
 		</ul></p>
 		<ul class="actions">
-	<li><a href="PSTAT-131-Final-Project-.html" class="button">View Project</a></li></ul>
+	<a href="PSTAT-131-Final-Project-.html" class="button">View Project</a></ul>
 	</div>
 	</div>
 	<div class="6u$ 12u$(small)">

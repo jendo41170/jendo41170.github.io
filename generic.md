@@ -75,9 +75,12 @@ nav-menu: true
 	<div class="6u 12u$(small)">
 	<div class="box">
 		<p><span class="image left"><img src="{% link assets/images/duolingo.png %}" alt="" style="max-width: 100%;" /></span><strong>Duolingo Data: A Study on Foreign Language Learning</strong>
-		<br>2022 Graduation
-		<br>Major: Data Science and Statistics B.S.
-		<br><br>Relevant Course Work: Micro, Micro Economics; R Programming, SAS Programming, Linear Regression and Diagnostics, Machine Learning, Time Series Analysis, Stochasic Processes<br></p>
+		<ul>
+			<li>Technologies Used: R, R Markdown, SAS</li>
+			<li>Used a gzipped CSV file containing 13 million Duolingo student learning traces to create a model that aims to predict the learning difficulty for a specific word in one of the six languages, German, English, Spanish, French, Italian and Portuguese</li>
+			<li>In the training phase, preformed data cleaning and conducted computational and visual exploratory data analysis</li>
+			<li>In the model building stage, utilized stratified cross fold validation on the following models: Linear Regression, Random Forest, Boosted Trees, Nearest Neighbors</li>
+		</ul></p>
 	</div>
 	</div>
 	<div class="6u$ 12u$(small)">
@@ -89,9 +92,10 @@ nav-menu: true
 <div class="6u 12u$(small)">
 	<div class="box">
 		<p><span class="image left"><img src="{% link assets/images/riemann.jpeg %}" alt="" style="max-width: 100%;" /></span><strong>Research on Analytic Number Theory</strong>
-		<br>2022 Graduation
-		<br>Major: Data Science and Statistics B.S.
-		<br><br>Relevant Course Work: Micro, Micro Economics; R Programming, SAS Programming, Linear Regression and Diagnostics, Machine Learning, Time Series Analysis, Stochasic Processes<br></p>
+		<li>Technologies Used: Python, Excel, Latex</li>
+			<li>Explored and presented the relationship between the Mobius Function, Mertens Function and their connections to the Riemann Hypothesis and Prime Number Theory in a 2-person team over 16 weeks</li>
+			<li>Designed and implemented python code to create unique plots supporting our findings</li>
+			</p>
 	</div>
 	</div>
 		</div>

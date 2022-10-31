@@ -102,7 +102,8 @@ nav-menu: true
 		</ul>
 	</div>
 </div>
-</div>
+	</div>
+		</div>
 	
 		
 <!-- Projects -->
@@ -123,7 +124,10 @@ nav-menu: true
 	<div class="6u$ 12u$(small)">
 	<div class="box">
 		<p><span class="image left"><img src="{% link assets/images/mockup_large.png %}" alt="" style="max-width: 100%;" /></span><strong>GitHub Pages: Building a Static Website</strong>
-		<br>2014-2018</p>
+		<ul>
+			<li>Technologies Used: HTML, SCSS, JavaScript, Github Pages, RMarkdown</li>
+			<li>Utilized the languages/technologies mentioned above to build an interactive static website hosted on GitHub Pages</li>
+		</ul></p>
 		<ul class="actions"> <a href="#" class="button">View Project</a></ul>
 	</div>
 	</div>

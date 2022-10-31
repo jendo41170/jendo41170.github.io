@@ -117,14 +117,14 @@ nav-menu: true
 			<li>In the training phase, preformed data cleaning and conducted computational and visual exploratory data analysis</li>
 			<li>In the model building stage, utilized stratified cross fold validation on the following models: Linear Regression, Random Forest, Boosted Trees, Nearest Neighbors</li>
 		</ul></p>
-		<ul class="actions">
-	<a href="PSTAT-131-Final-Project-.html" class="button">View Project</a></ul>
+		<ul class="actions"> <a href="PSTAT-131-Final-Project-.html" class="button">View Project</a></ul>
 	</div>
 	</div>
 	<div class="6u$ 12u$(small)">
 	<div class="box">
 		<p><span class="image left"><img src="{% link assets/images/mockup_large.png %}" alt="" style="max-width: 100%;" /></span><strong>GitHub Pages: Building a Static Website</strong>
 		<br>2014-2018</p>
+		<ul class="actions"> <a href="#" class="button">View Project</a></ul>
 	</div>
 	</div>
 <div class="6u 12u$(small)">
@@ -135,6 +135,7 @@ nav-menu: true
 			<li>Explored and presented the relationship between the Mobius Function, Mertens Function and their connections to the Riemann Hypothesis and Prime Number Theory in a 2-person team over 16 weeks</li>
 			<li>Designed and implemented python code to create unique plots supporting our findings</li>
 			</ul></p>
+		<ul class="actions"> <a href="#" class="button">View Project</a></ul>
 	</div>
 	</div>
 		</div>

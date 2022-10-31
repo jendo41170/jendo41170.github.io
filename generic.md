@@ -74,7 +74,7 @@ nav-menu: true
 	<div class="row">
 	<div class="6u 12u$(small)">
 	<div class="box">
-		<p><span class="image left"><img src="{% link assets/images/duolingo.png %}" alt="" style="max-width: 100%;" /></span><strong>Duolingo Data: A Study on Foreign Language Learning</strong>
+		<p><span class="image left"><img src="{% link assets/images/duolingo.png %}" alt="" style="max-width: 100%;" /></span><strong>Duolingo Data: A Study on Foreign Language Learning</strong><br>
 		<ul>
 			<li>Technologies Used: R, R Markdown, SAS</li>
 			<li>Used a gzipped CSV file containing 13 million Duolingo student learning traces to create a model that aims to predict the learning difficulty for a specific word in one of the six languages, German, English, Spanish, French, Italian and Portuguese</li>
@@ -91,11 +91,12 @@ nav-menu: true
 	</div>
 <div class="6u 12u$(small)">
 	<div class="box">
-		<p><span class="image left"><img src="{% link assets/images/riemann.jpeg %}" alt="" style="max-width: 100%;" /></span><strong>Research on Analytic Number Theory</strong>
+		<p><span class="image left"><img src="{% link assets/images/riemann.jpeg %}" alt="" style="max-width: 100%;" /></span><strong>Research on Analytic Number Theory</strong><br>
+		<ul>
 		<li>Technologies Used: Python, Excel, Latex</li>
 			<li>Explored and presented the relationship between the Mobius Function, Mertens Function and their connections to the Riemann Hypothesis and Prime Number Theory in a 2-person team over 16 weeks</li>
 			<li>Designed and implemented python code to create unique plots supporting our findings</li>
-			</p>
+			</ul></p>
 	</div>
 	</div>
 		</div>

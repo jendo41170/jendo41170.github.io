@@ -60,9 +60,9 @@ nav-menu: true
 	</div>
 	<div class="6u$ 12u$(small)">
 		<ul>
-			<li>Expanded methods of identification, tracking and monitoring of risk threats</li>
-			<li>Maintained projects, data, and security for systems and controls related to the information security department</li>
-			<li>Developed daily reports, quarterly system clearance reports and oversaw metadata changes</li>
+		<li>Expanded methods of identification, tracking and monitoring of risk threats</li>
+		<li>Maintained projects, data, and security for systems and controls related to the information security department</li>
+		<li>Developed daily reports, quarterly system clearance reports and oversaw metadata changes</li>
 		</ul>
 	</div>
 	<!-- #2 -->

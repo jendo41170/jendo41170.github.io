@@ -75,6 +75,9 @@ nav-menu: true
 	<div class="6u 12u$(small)">
 	<div class="box">
 		<p><span class="image left"><img src="{% link assets/images/duolingo.png %}" alt="" style="max-width: 100%;" /></span><strong>Duolingo Data: A Study on Foreign Language Learning</strong><br>
+			<ul class="actions">
+	<li><a href="PSTAT-131-Final-Project-.html" class="button">View Project</a></li>
+</ul>
 		<ul>
 			<li>Technologies Used: R, R Markdown, SAS</li>
 			<li>Used a gzipped CSV file containing 13 million Duolingo student learning traces to create a model that aims to predict the learning difficulty for a specific word in one of the six languages, German, English, Spanish, French, Italian and Portuguese</li>

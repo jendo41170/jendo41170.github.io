@@ -65,6 +65,42 @@ nav-menu: true
 			<li>Developed daily reports, quarterly system clearance reports and oversaw metadata changes</li>
 		</ul>
 	</div>
+	<!-- #2 -->
+	<div class="6u 12u$(small)">
+		<h3>Private Tutor | Lower/Upper Division Undergraduate Mathematics</h3>
+		<p>Santa Barbara, CA<br> 
+		June 2020 – Current</p>
+	</div>
+	<div class="6u$ 12u$(small)">
+		<ul>
+			<li>Hired by student families to provide in-home tutoring, instructional support, and homework assistance in the following topics: Introduction Calculus, Integral Calculus, Multivariable Calculus, Differential Equations, Linear Algebra, Proof Writing </li>
+			<li>Improved student performance by at least 1 letter grade and improved midterm/final scores by 25%</li>
+			<li>Elevated students confidence in their ability to exercise information ordering, inductive reasoning, and critical thinking</li>
+		</ul>
+	</div>
+	<!-- #3 -->
+	<div class="6u 12u$(small)">
+		<h3>Tutoring for Success | Tutor, Mathematics</h3>
+		<p>Westminster, CA<br> 
+		August 2018 – August 2019</p>
+	</div>
+	<div class="6u$ 12u$(small)">
+		<ul>
+			<li>Customized tutoring and instructional approaches to meet the needs of diverse client populations in the following topics: Geometry, Algebra I and II, Trigonometry, Calculus (AB, BC), Statistics</li>
+		</ul>
+	</div>
+		
+	<!-- #4 -->
+	<div class="6u 12u$(small)">
+		<h3>Seafood Paradise | Cashier/Front of House</h3>
+		<p>Westminster, CA<br> 
+		May 2021– August 2021</p>
+	</div>
+	<div class="6u$ 12u$(small)">
+		<ul>
+			<li>Expanded methods of identification, tracking and monitoring of risk threats</li>
+		</ul>
+	</div>
 		</div>
 	
 </div>

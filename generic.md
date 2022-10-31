@@ -155,6 +155,7 @@ nav-menu: true
 			<li>Python</li>
 			<li>Tableau</li>
 			<li>SAS</li>
+			<li>Statistical Analysis/Theory</li>
 		</ul>
 	</div>
 	<div class="6u$ 12u$(small)">

@@ -95,16 +95,18 @@ nav-menu: true
 	<!-- #1 -->
 	<div class="6u 12u$(small)">
 		<ul>
-			<li>Dolor etiam magna etiam.</li>
-			<li>Sagittis lorem eleifend.</li>
-			<li>Felis dolore viverra.</li>
+			<li>R, RMarkdown</li>
+			<li>SQL</li>
+			<li>Python</li>
+			<li>Tableau</li>
 		</ul>
 	</div>
 	<div class="6u$ 12u$(small)">
 		<ul>
-			<li>Dolor etiam magna etiam.</li>
-			<li>Sagittis lorem eleifend.</li>
-			<li>Felis dolore viverra.</li>
+			<li>Excel</li>
+			<li>Latex</li>
+			<li>SAS</li>
+			<li>C++</li>
 		</ul>
 	</div>
 		</div>

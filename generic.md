@@ -104,6 +104,7 @@ nav-menu: true
 		</div>
 	
 </div>
+		</div>
 		
 <!-- Projects -->
 <h2 id="content">Projects</h2>

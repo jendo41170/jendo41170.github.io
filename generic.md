@@ -102,7 +102,6 @@ nav-menu: true
 		</ul>
 	</div>
 </div>
-	</div>
 		</div>
 	
 		

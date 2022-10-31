@@ -175,7 +175,7 @@ nav-menu: true
 <h2 id="content">Leadership + Organizations</h2>
 <div class="box">
 	<ul>
-			<li>UCSB Pacific Math Alliance</li>
+			<li>UCSB Pacific Math Alliance - Founding Board Member, Transfer Student Representative; Social Media</li>
 			<li>DRP (Research on analytic number theory)</li>
 			<li>UCSB Finance Connection</li>
 			<li>AWM (Association for Women in Mathematics)</li>

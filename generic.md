@@ -138,7 +138,7 @@ nav-menu: true
 			<li>Explored and presented the relationship between the Mobius Function, Mertens Function and their connections to the Riemann Hypothesis and Prime Number Theory in a 2-person team over 16 weeks</li>
 			<li>Designed and implemented python code to create unique plots supporting our findings</li>
 			</ul></p>
-		<ul class="actions"> <a href="#" class="button">View Project</a></ul>
+		<ul class="actions"> <a href="research_website.html" class="button">View Project</a></ul>
 	</div>
 	</div>
 		</div>

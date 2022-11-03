@@ -71,7 +71,7 @@ Research on Analytic Number Theory (Riemann Sums, Mobius Function)</h3>
 				<p>Technologies Used: Python, Excel, Latex</p>
 				<p>This project utilizes Python to explore the relationship between the Mobius Function, Mertens Function and their connections to the Riemann Hypothesis and Prime Number Theory.</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="research_website.html" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>

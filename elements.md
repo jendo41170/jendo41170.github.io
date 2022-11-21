@@ -2,7 +2,7 @@
 layout: page
 title: About
 image: assets/images/headshot.png
-nav-menu: true
+nav-menu: false
 ---
 
 <!-- Main -->

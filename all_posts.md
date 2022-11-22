@@ -1,12 +1,9 @@
 ---
-layout: allposts
-title: All posts
-landing-title: 'All posts'
+layout: page
+title: About
+image: assets/images/headshot.png
 nav-menu: false
-description: null
-image: null
-author: null
-show_tile: true
+show_tile: false
 ---
 
 <h1>All posts</h1>

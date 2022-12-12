@@ -158,8 +158,8 @@ nav-menu: true
 	</div>
 	</div>
 		</div>
-<!-- Core Compencies-->
-<h2 id="content">Technical Proficiencies</h2>
+<!-- Core Competencies-->
+<h2 id="content">Core Competencies</h2>
 <div class="box">
 	<div class="row">
 	<!-- #1 -->

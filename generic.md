@@ -54,18 +54,33 @@ nav-menu: true
 	<div class="row">
 	<!-- #1 -->
 	<div class="6u 12u$(small)">
+		<h3>Coding Minds | Cyber Security & Risk Management Intern</h3>
+		<p>Irvine, CA<br> 
+		November 2022 – Current</p>
+	</div>
+	<div class="6u$ 12u$(small)">
+		<ul>
+		<li>Facilitate weekly project-based AI/Data Science/Coding language classes.</li>
+		<li>Enable students to apply AI/Data Science in problem-solving projects and publish projects in the cloud or in app stores.</li>
+		<li>Complete tasks including curriculum development and app prototyping; execute tests to evaluate app functionality.
+</li>
+		</ul>
+	</div>
+		
+	<!-- #2 -->
+	<div class="6u 12u$(small)">
 		<h3>Community West Bank | Cyber Security & Risk Management Intern</h3>
 		<p>Goleta, CA<br> 
 		May 2021– August 2021</p>
 	</div>
 	<div class="6u$ 12u$(small)">
 		<ul>
-		<li>Expanded methods of identification, tracking and monitoring of risk threats</li>
-		<li>Maintained projects, data, and security for systems and controls related to the information security department</li>
-		<li>Developed daily reports, quarterly system clearance reports and oversaw metadata changes</li>
+		<li>Garnered experience with methods of identification, tracking, and monitoring of risk threats</li>
+		<li>Delivered support for projects, data, and security for systems and controls related to the information security department.</li>
+		<li>Cultivated exceptional communication and organizational skills through interfacing with clients and upper management; attended meetings with a variety of stakeholders for needs definition and status reporting.</li>
 		</ul>
 	</div>
-	<!-- #2 -->
+	<!-- #3 -->
 	<div class="6u 12u$(small)">
 		<h3>Private Tutor | Lower/Upper Division Undergraduate Mathematics</h3>
 		<p>Santa Barbara, CA<br> 
@@ -73,12 +88,12 @@ nav-menu: true
 	</div>
 	<div class="6u$ 12u$(small)">
 		<ul>
-			<li>Hired by student families to provide in-home tutoring, instructional support, and homework assistance in the following topics: Introduction Calculus, Integral Calculus, Multivariable Calculus, Differential Equations, Linear Algebra, Proof Writing </li>
-			<li>Improved student performance by at least 1 letter grade and improved midterm/final scores by 25%</li>
-			<li>Elevated students confidence in their ability to exercise information ordering, inductive reasoning, and critical thinking</li>
+			<li>Provided comprehensive in-home tutoring, instructional support, and homework assistance in the following topics: Calculus, Differential Equations, Linear Algebra, and Proof Writing. </li>
+			<li>Drove improvements in students’ performance by at least 1 letter grade and +25% midterm/final scores</li>
+			<li>Enhanced students’ confidence in their ability to exercise information ordering, inductive reasoning, and critical thinking</li>
 		</ul>
 	</div>
-	<!-- #3 -->
+	<!-- #4 -->
 	<div class="6u 12u$(small)">
 		<h3>Tutoring for Success | Tutor, Mathematics</h3>
 		<p>Westminster, CA<br> 
@@ -86,11 +101,12 @@ nav-menu: true
 	</div>
 	<div class="6u$ 12u$(small)">
 		<ul>
-			<li>Customized tutoring and instructional approaches to meet the needs of diverse client populations in the following topics: Geometry, Algebra I and II, Trigonometry, Calculus (AB, BC), Statistics</li>
+			<li>Devised custom tutoring and instructional approaches to meet the needs of diverse client populations</li>
+			<li>Demonstrated expertise in the following topics: Geometry, Algebra I and II, Trigonometry, Calculus (AB, BC), and Statistics</li>
 		</ul>
 	</div>
 		
-	<!-- #4 -->
+	<!-- #5 -->
 	<div class="6u 12u$(small)">
 		<h3>Seafood Paradise | Cashier/Front of House</h3>
 		<p>Westminster, CA<br> 
@@ -142,9 +158,33 @@ nav-menu: true
 	</div>
 	</div>
 		</div>
-		
-<!-- Skills -->
-<h2 id="content">Skills</h2>
+<!-- Core Compencies-->
+<h2 id="content">Technical Proficiencies</h2>
+<div class="box">
+	<div class="row">
+	<!-- #1 -->
+	<div class="6u 12u$(small)">
+		<ul>
+			<li>Micro/macroeconomies</li>
+			<li>Data Science </li>
+			<li>Project Leadership</li>
+			<li>Risk Management</li>
+		</ul>
+	</div>
+	<div class="6u$ 12u$(small)">
+		<ul>
+			<li>Strategic Planning</li>
+			<li>Team Collaboration</li>
+			<li>Communicattion</li>
+			<li>Documentation</li>
+		</ul>
+	</div>
+		</div>
+	
+</div>
+
+<!-- Technical Proficiencies-->
+<h2 id="content">Technical Proficiencies</h2>
 <div class="box">
 	<div class="row">
 	<!-- #1 -->

@@ -8,6 +8,7 @@ show_tile: true
 
 <!-- Main -->
 <div id="main">
+<p> I am a recent data science and statistics graduate with experience in AI, cyber security, and risk management seeking a position that will utilize my knowledge and skills while enabling me to develop further as a professional.</p>
 
-
+<p>In my free time, I enjoy yoga (hot, scupt), . </p> 
 </div>

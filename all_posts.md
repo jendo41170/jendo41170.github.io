@@ -14,7 +14,7 @@ show_tile: true
 		</header>
 		<p> I am a recent data science and statistics graduate with experience in AI, cyber security, and risk management seeking a position that will utilize my knowledge and skills while enabling me to develop further as a professional.</p>
 
-<p>In my free time, I enjoy yoga (hot, scupt), pilates, trying new resturants and cooking! I am also passionate about my long time role as a mathematics and coding tutor; I believe it is important to help cultivate the bright minds of the future. </p> 
+<p>In my free time, I enjoy yoga (hot, sculpt), pilates, trying new resturants and cooking! I am also passionate about my long time role as a mathematics and coding tutor; I believe it is important to help cultivate the bright minds of the future. </p> 
 	</div>
 </section>
  
